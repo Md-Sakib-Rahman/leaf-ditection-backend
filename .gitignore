@@ -1,0 +1,12 @@
+# Node
+node_modules/
+
+# Python
+python/venv/
+python/__pycache__/
+
+# Env
+.env
+
+# Logs
+*.log
