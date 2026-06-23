@@ -5,6 +5,14 @@ node_modules/
 python/venv/
 python/__pycache__/
 
+# Python Deep Learning (New)
+python_dl/venv_dl/
+python_dl/__pycache__/
+python_dl/dataset/
+*.pth
+*.jpg
+*.png
+
 # Env
 .env
 
